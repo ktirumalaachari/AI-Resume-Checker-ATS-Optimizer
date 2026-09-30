@@ -1,0 +1,45 @@
+{
+  "folder-color.pathColors": [],
+
+  "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 24,
+
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastLine": false,
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": true,
+
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+
+  "editor.renderWhitespace": "selection",
+
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+
+  "editor.suggest.preview": true,
+  "editor.inlineSuggest.enabled": true,
+
+  "workbench.colorTheme": "Dark Modern",
+  "workbench.iconTheme": "vscode-icons",
+
+  "workbench.tree.indent": 16,
+
+  "explorer.compactFolders": false,
+
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2,
+
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+
+  "breadcrumbs.enabled": true
+}
