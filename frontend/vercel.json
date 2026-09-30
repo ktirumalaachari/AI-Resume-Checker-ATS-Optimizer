@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://ai-resume-checker-43wa.onrender.com/api/:path*"
+      "destination": "https://ai-resume-checker-backend-76eh.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
